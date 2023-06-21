@@ -55,7 +55,7 @@ We demonstrate the behavior by showing the box plot for 'freetime' and 'goout'. 
 
 
 
-![freetimeBox](Misc/freetimeBox)
+![image](Misc/freetimeBox.png)
 
 
 
@@ -93,7 +93,7 @@ As a result of that EDA, we remark that the feature 'failures' is a strong predi
 	plt.plot(X_test_subset_1, y_pred_subset_1, color="blue", linewidth=2)
 
 
-![failuresScatter](Misc/failuresScatter)
+![image](Misc/failuresScatter.png)
 
 
 
